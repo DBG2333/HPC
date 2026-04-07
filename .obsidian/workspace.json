@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "BF16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "BF16"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "1769119496b3c771",
   "lastOpenFiles": [
-    "BF16.md",
     "test.md",
+    "BF16.md",
     "未命名.base",
     "conflict-files-obsidian-git.md",
     "未命名 3.base",
