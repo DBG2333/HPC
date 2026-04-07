@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "未命名"
             }
           }
         ]
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0397b302e3817451",
+  "active": "1769119496b3c771",
   "lastOpenFiles": [
-    "未命名.base",
     "test.md",
+    "未命名.md",
+    "未命名.base",
     "conflict-files-obsidian-git.md",
     "未命名 3.base",
     "未命名 2.base",
