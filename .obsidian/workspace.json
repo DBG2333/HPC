@@ -11,14 +11,13 @@
             "id": "594354ffc3cf633e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "test"
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ]
@@ -194,13 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "594354ffc3cf633e",
+  "active": "0397b302e3817451",
   "lastOpenFiles": [
-    "欢迎.md",
-    "test.md",
-    "test.md",
     "未命名.base",
+    "未命名 3.base",
+    "test.md",
+    "未命名 2.base",
     "未命名 1.base",
+    "欢迎.md",
     "conflict-files-obsidian-git.md"
   ]
 }
