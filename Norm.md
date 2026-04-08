@@ -4,7 +4,7 @@ $$
 \begin{align*}
 &\mu=\frac{\Sigma x_i}n\\
 &\sigma=\sqrt\frac{\Sigma(x_i-\mu)^2}{n}\\
-&
+&\hat{x_i}=\frac{x_i-\mu}{\sigma+\epsilon}
 \end{align*}
 $$
 # RMS-norm
