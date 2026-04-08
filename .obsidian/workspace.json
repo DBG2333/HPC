@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rms-norm.md",
+                "file": "Norm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rms-norm"
+              "title": "Norm"
             }
           }
         ]
@@ -197,7 +197,7 @@
   "active": "1769119496b3c771",
   "lastOpenFiles": [
     "RISC-V.md",
-    "Rms-norm.md",
+    "Norm.md",
     "DAIRY/2026-04-07.md",
     "数据格式.md",
     "DAIRY",
