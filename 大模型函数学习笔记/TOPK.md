@@ -10,13 +10,14 @@ if(arr[k]>a[i]) vector_r.push_back(arr[k]);
 else
 vector_l.push_back(arr[k]);
 
-return 
+return [vector_l,arr[k],vector_r]
 
 }
 void QS(arr, left, right)
 {
 if(len(arr)=1)return;
 else
+exchange(arr,right-1);
 
 }
 
