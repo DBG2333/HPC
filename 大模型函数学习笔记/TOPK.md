@@ -1,12 +1,21 @@
 # 1. 快速排序
 ```
-void exchange(arr,i)
+vector exchange(arr,k)
 {
-for(i)
+vector_r=[]
+vector_l=[]
+temp=arr[k]
+for(i=left,i<right,i++)
+if(arr[k]>a[i]) vector_r.push_back(arr[k]);
+else
+vector_l.push_back(arr[k]);
+
+return 
+
 }
 void QS(arr, left, right)
 {
-if(left==right)return;
+if(len(arr)=1)return;
 else
 
 }
