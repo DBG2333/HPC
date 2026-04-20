@@ -48,9 +48,65 @@
               "icon": "lucide-file",
               "title": "存储格式"
             }
+          },
+          {
+            "id": "a3a5b3422d45a715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大模型函数学习笔记/rmsnorm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rmsnorm"
+            }
+          },
+          {
+            "id": "cdb49d6969e7d541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大模型函数学习笔记/TOPK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TOPK"
+            }
+          },
+          {
+            "id": "290ed5b264210e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大模型函数学习笔记/DP分离.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DP分离"
+            }
+          },
+          {
+            "id": "d5cfd25ce22b6db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大模型函数学习笔记/TOPK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TOPK"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -223,15 +279,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "828cb9ef7f791115",
+  "active": "d5cfd25ce22b6db6",
   "lastOpenFiles": [
+    "大模型函数学习笔记/DP分离.md",
+    "大模型函数学习笔记/MoE.md",
+    "大模型函数学习笔记/TOPK.md",
+    "大模型函数学习笔记/rmsnorm.md",
+    "汇编学习笔记/非线性模块.md",
+    "汇编学习笔记/存储格式.md",
     "汇编学习笔记/函数.md",
     "test.md",
     "RISC-V.md",
     "Norm.md",
     "数据格式.md",
-    "汇编学习笔记/存储格式.md",
-    "大模型函数学习笔记/rmsnorm.md",
     "大模型函数学习笔记",
     "汇编学习笔记",
     "DAIRY/2026-04-07.md",
