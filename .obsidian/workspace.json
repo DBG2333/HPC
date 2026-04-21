@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "汇编学习笔记/存储格式.md",
+                "file": "大模型函数学习笔记/rmsnorm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "存储格式"
+              "title": "rmsnorm"
             }
           }
         ],
@@ -281,8 +281,8 @@
   },
   "active": "3b8852fe60b1854c",
   "lastOpenFiles": [
-    "汇编学习笔记/非线性模块.md",
     "汇编学习笔记/函数.md",
+    "汇编学习笔记/非线性模块.md",
     "汇编学习笔记/存储格式.md",
     "大模型函数学习笔记/TOPK.md",
     "大模型函数学习笔记/rmsnorm.md",
