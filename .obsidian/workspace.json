@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型函数学习笔记/常识.md",
+                "file": "汇编学习笔记/函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常识"
+              "title": "函数"
             }
           }
         ],
@@ -309,20 +309,20 @@
   },
   "active": "3c8dabb3ad994727",
   "lastOpenFiles": [
+    "汇编学习笔记/存储格式.md",
+    "大模型函数学习笔记/TOPK.md",
+    "大模型函数学习笔记/rmsnorm.md",
+    "大模型函数学习笔记/MoE.md",
+    "大模型函数学习笔记/DP分离.md",
     "大模型函数学习笔记/数据格式.md",
     "大模型函数学习笔记/量化.md",
     "大模型函数学习笔记/常识.md",
-    "大模型函数学习笔记/rmsnorm.md",
-    "大模型函数学习笔记/TOPK.md",
     "汇编学习笔记/函数.md",
     "汇编学习笔记/非线性模块.md",
-    "汇编学习笔记/存储格式.md",
     "DAIRY/2026-04-20.md",
     "DAIRY/2026-04-07.md",
     "C语言八股文/未命名.md",
     "C语言八股文",
-    "大模型函数学习笔记/DP分离.md",
-    "大模型函数学习笔记/MoE.md",
     "test.md",
     "RISC-V.md",
     "Norm.md",
