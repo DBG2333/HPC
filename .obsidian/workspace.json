@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant/什么是量化？.md",
+                "file": "IEEE/最小误差.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "什么是量化？"
+              "title": "最小误差"
             }
           }
         ],
@@ -227,10 +227,10 @@
   },
   "active": "7fdf3d1a1b3cefd7",
   "lastOpenFiles": [
-    "IEEE/数据精度大全.md",
-    "IEEE/最小误差.md",
     "Quant/什么是量化？.md",
+    "IEEE/最小误差.md",
     "Quant/Quant style.md",
+    "IEEE/数据精度大全.md",
     "IEEE",
     "未命名.base",
     "Quant",
