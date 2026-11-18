@@ -2,10 +2,13 @@
 原数列A
 $a_{min}=min(A)\quad a_{max}=max(A)$
 
-规定量化后数据类型，以int8举例
+规定量化后数据类型，以int8举例，量化后的数列B的最大值和最小值和int8的范围对应
 $max(int 8)=2^7-1 \quad min(int 8)=-(2^7-1) $
 
-量化后的数列 B: $a_{min}->min(int 8)\quad a_{max}->max(int 8)$
+量化后的数列 B: $$a_{min}->b_{min}=min(int 8)\quad a_{max}->b_{max}=max(int 8)$$
+scale放缩系数记为：
+$s=\frac{a_{max}-a_{min}}{max(int 8)-min(int 8)}$
+
 
 # 对称量化与零点
 
