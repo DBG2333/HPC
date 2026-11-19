@@ -21,6 +21,17 @@ $$a_{min}->b_{min}=min(int 8)\quad a_{max}->b_{max}=max(int 8)$$
 
 scale放缩系数记为：
 $$s=\frac{a_{max}-a_{min}}{max(int 8)-min(int 8)}$$
+# Quant in LLM
+对于Weight做量化，Activation不量化
+假设存在 
+$$
+\begin{align*}
+z=a_1w_1+a_2w_2\\
+\hat z=a_1\hat w_1+a_2\hat w_2\\
+\Delta z=a_1\Delta w_1+a_2\Delta w_2
+\end{align*}$$
+
+
 
 # GPTQ
 
